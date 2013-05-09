@@ -1,4 +1,4 @@
 xingbao-crossword-game
 ======================
 
-a cross word game for xiangbao
+a cross word game for xingbao
